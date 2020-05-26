@@ -4,7 +4,7 @@ import java.util.Scanner;
 //test¶¥¶¥¶¥
 public class LianXi2 {
 		public static void main(String[] args) {
-			//ÄãºÃ
+			//ÄãºÃ·³·³·³
 			Scanner scanner =new Scanner(System.in);
 			
 			String [] array= new String[5];
