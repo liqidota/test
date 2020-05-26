@@ -1,7 +1,7 @@
 package com.bdqn.liqi.chapter8;
 
 import java.util.Scanner;
-
+//test¶¥¶¥¶¥
 public class LianXi2 {
 		public static void main(String[] args) {
 			
